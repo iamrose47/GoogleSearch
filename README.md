@@ -23,14 +23,18 @@ A simple Google Search-like application built with React that utilizes the Googl
 
    ```bash
    git clone https://github.com/yourusername/google-search-clone.git
+   
 2. Navigate to the project directory:
    cd google-search-clone
-3. Install the dependencies:
+   
+4. Install the dependencies:
    npm install
-4. Create a .env file in the root directory and add your Google API key and Custom Search Engine ID:
+   
+5. Create a .env file in the root directory and add your Google API key and Custom Search Engine ID:
    REACT_APP_GOOGLE_API_KEY=YOUR_API_KEY
    REACT_APP_GOOGLE_CSE_ID=YOUR_CSE_ID
-5. Start the development server:
+   
+6. Start the development server:
    npm start
 
 
